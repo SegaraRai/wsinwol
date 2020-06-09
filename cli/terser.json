@@ -1,0 +1,11 @@
+{
+  "output": {
+    "ascii_only": true,
+    "max_line_len": 128,
+    "preamble": "#!/usr/bin/env node\n"
+  },
+  "sourceMap": {
+    "filename": "wsinwol.js",
+    "url": "inline"
+  }
+}
