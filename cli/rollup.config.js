@@ -7,7 +7,7 @@ import alias from '@rollup/plugin-alias';
 export default {
   input: 'src/index.ts',
   output: {
-    file: 'dist/wsinwol.js',
+    file: 'dist/bundle/wsinwol.js',
     format: 'cjs',
     sourcemap: 'inline',
   },

@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node -r tsconfig-paths/register src/index.ts",
-    "bundle": "rollup -c"
+    "bundle": "rollup -c && terser --config-file terser.json -o dist/bundle/wsinwol.min.js dist/bundle/wsinwol.js"
   },
   "author": "segararai",
   "license": "MIT",
