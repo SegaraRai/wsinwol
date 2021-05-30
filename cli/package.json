@@ -11,7 +11,7 @@
   "author": "segararai",
   "license": "MIT",
   "dependencies": {
-    "ws": "^7.3.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
